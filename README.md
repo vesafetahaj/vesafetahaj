@@ -1,7 +1,7 @@
 ### <h1 style="text-align: center;">Hi there 👋</h1>
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
