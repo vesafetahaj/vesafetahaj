@@ -6,9 +6,9 @@
 
 ### :woman_technologist: About Me :
 - 👧🏽 My name is Vesa Fetahaj.
+- 🌱 Specializing in Software Engineering.
 - 🌸 Currently learning Spring Boot.
 - 🏥 I recently worked on a Hospital System with ASP.NET (Group work).
-- 🌱 Specializing in Software Engineering.
 - 📫 How to reach me: vesafetahaj2@gmail.com
 - ⚡ Fun fact about me: I find immense satisfaction in offering my support and guidance to empower others.
 
