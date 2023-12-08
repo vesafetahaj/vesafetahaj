@@ -4,7 +4,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400" height="250"/>
 </div>
 
-<a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png">About Me :
+About Me :
 - 👧🏽 My name is Vesa Fetahaj.
 - 🌱 Specializing in Software Engineering.
 - 🌸 Currently learning Spring Boot.
