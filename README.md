@@ -4,7 +4,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400" height="250"/>
 </div>
 
-### :woman_technologist: About Me :
+<a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png">About Me :
 - 👧🏽 My name is Vesa Fetahaj.
 - 🌱 Specializing in Software Engineering.
 - 🌸 Currently learning Spring Boot.
@@ -14,7 +14,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 
 ---
 
-### :fire: My Stats :
+My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vesafetahaj"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vesafetahaj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
