@@ -36,6 +36,7 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" width="40" height="40"/>&nbsp;
 </div>
 
 ---
