@@ -8,8 +8,8 @@ About Me :
 - 👧🏽 My name is Vesa Fetahaj.
 - 🌱 Specializing in Software Engineering.
 - 🌸 Currently learning .NET.
-- 💼 I recently worked on a Job Application System.
-- 👩🏽‍💼 Interning in information security.
+- 💻 I recently worked on a Job Application System.
+- 🔐 Interning in information security.
 - 📫 How to reach me: vesafetahaj2@gmail.com
 - ⚡ Fun fact about me: I find immense satisfaction in offering my support and guidance to empower others.
 
