@@ -5,7 +5,7 @@
 </div>
 
 About Me :
-- 👧🏽 My name is Vesa Fetahaj.
+- 👧🏽 I'm Vesa Fetahaj.
 - 🌱 Specializing in Software Engineering.
 - 🌸 Currently learning .NET.
 - 💻 I recently worked on a Job Application System.
