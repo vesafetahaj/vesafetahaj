@@ -8,7 +8,7 @@ About Me :
 - 👧🏽 I'm Vesa Fetahaj.
 - 🌱 Specializing in Software Engineering.
 - 🌸 Currently learning .NET.
-- 💻 I recently worked on a Job Application System.
+- 💻 I recently worked on a Workflow-Driven Claim Management System.
 - 🔐 Junior Information Security Specialist.
 - 📫 How to reach me: vesafetahaj2@gmail.com
 - ⚡ Fun fact about me: I find immense satisfaction in offering my support and guidance to empower others.
