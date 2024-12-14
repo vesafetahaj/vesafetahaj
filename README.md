@@ -6,8 +6,8 @@
 
 About Me :
 - 👧🏽 I'm Vesa Fetahaj.
-- 🌱 Specializing in Software Engineering.
-- 🌸 Currently learning .NET.
+- 🌱 Specialized in Software Engineering in my Bachelor Degree.
+- 🌸 Currently studying Master of Science in Computer Science and Engineering.
 - 💻 I recently worked on a Workflow-Driven Claim Management System.
 - 🔐 Junior Information Security Specialist.
 - 📫 How to reach me: vesafetahaj2@gmail.com
