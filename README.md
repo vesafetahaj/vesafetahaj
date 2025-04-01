@@ -8,7 +8,7 @@ About Me :
 - 👧🏽 I'm Vesa Fetahaj.
 - 🌱 Specialized in Software Engineering in my Bachelor Degree.
 - 🌸 Currently studying Master of Science in Computer Science and Engineering.
-- 💻 I recently worked on a Workflow-Driven Claim Management System.
+- 💻 I recently worked on a MapReduce project using Word Count algorithm to check the word frequency in different datasets.
 - 🔐 Junior Information Security Specialist.
 - 📫 How to reach me: vesafetahaj2@gmail.com
 - ⚡ Fun fact about me: I find immense satisfaction in offering my support and guidance to empower others.
